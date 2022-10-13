@@ -1,30 +1,34 @@
 ---
 layout: post
 title: My first post
-date: 2022-10-14 00:40:16
+date: 2022-09-14 00:40:16
 description: Simple post
-tags: Daily
+tags: All Daily
 categories: sample-posts
 ---
 
+ 안녕하세요 :) 이게 첫 글이 되네요.
 
-#### Hipster list
+ 현재 날짜가 22년 10월 14일인데 22년 10월 이상을 입력하면 포스팅이 사라져버리네요. 못 고치면 평생 22년 9월에 갇혀서 글을 쓰게 되겠네요. 빠른 시일 내에 고쳐야겠네요 ㅎㅎ;
+
+ 스크립트 작성에도 익숙해져야 글쓰기가 편해질 것 같네요. 이 글은 별 디자인 없이 작성됐지만 서서히 적응하면 더 가독성 있게 작성할 수 있을 것 같습니다.
+
+ 학부생 시절 Tistory 블로그를 약 1년동안 운영하다가 그만두었는데, 석사 2학기인 지금 남에게 보여줄 수 있는 기록을 작성해야겠다 싶어 다시 블로그를 운영하기로 마음 먹었습니다. 저한테 3가지 선택지가 있었습니다.
+
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li><b>Tistory</b></li>
+    <li><b>Naver</b></li>
+    <li><b>Jekyll</b></li>
 </ul>
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan. 
+##### <b>Tistory</b>
+Tistory에는 약 100여개의 글이 있고 하루에 50~150명은 꾸준히 유입되는 상황이여서 수익화도 할 수 있는 기회였습니다. 하지만 문제는 쌓여있는 글들의 내용이었죠. 학부생 때 작성했던 내용이다보니 검증없이 배운 대로 글을 쓰기도 하고, 틀린 내용도 있고, 제가 기억이 안나는 내용도 있었습니다. 지금의 제가 유지보수하기엔 무리다 싶어서 추억의 장소(?)로 두기로 했습니다. 물론 새로 개설할 수도 있었지만 Tistory 블로그면 신뢰가 떨어져보이는 마법이,,
 
-<hr>
+##### <b>Naver</b>
+Naver 블로그도 아주 잠깐 시도해봤는데 여기는 제가 익숙치 않아 수식입력도 불편하고 텍스트나 그림 배치도 불편해서 금방 손을 뗐습니다. 일상글만 몇 개 올렸었네요.
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+##### <b>Jekyll</b>
+친구가 Jekyll 블로그를 개설하고 있는 걸 목격해 처음 접했습니다. 페이지마다 형식을 다르게 작성할 수 있다는 게 매우 마음에 들었습니다. project 페이지에는 project 테마를, blog 페이지에는 blog 테마를 따로 적용할 수 있어서 눈길이 갔습니다. Tistory나 Naver는 한가지 테마 선택하면 모든 글이 선택한 테마를 따라야 해서 다양한 목적으로 사용하기는 썩 좋지 않았었습니다. Jekyll에서 project도 관리하고 cv도 관리하고 포스팅도 하면 되겠다싶어 Jekyll을 선택하게 되었습니다.
 
-<blockquote>
-    We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-    —Anais Nin
-</blockquote>
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+<br>
+당분간 여기에 정착해서 포스팅을 해봐야겠습니다 ㅎㅎ

@@ -17,6 +17,8 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Hello :) I'm Shin InYong. Welcome to my site! 😀
+
 I'm a master's course student at the University of Ajou and I'm majoring computer graphics.
 
 My research interests are in computer graphics and related fields, including rendering techniques, inverse rendering and hair rendering.
